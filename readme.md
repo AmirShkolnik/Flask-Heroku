@@ -41,27 +41,27 @@ Each page of the site features a:
 
 #### Home Page 
 
-![Home Page Screenshot](documentation/home.png)
+![Home Page Screenshot](static/doc/home.png)
 
 ### About Page
 
-![About Page Screenshot](documentation/about.jpg)
+![About Page Screenshot](static/doc/about.jpg)
 
 ### About Details Page
 
-![About Details Page Screenshot](documentation/about-detail.png)
+![About Details Page Screenshot](static/doc/about-detail.png)
 
 ### Careers Page
 
-![Careers Page Screenshot](documentation/careers.png)
+![Careers Page Screenshot](static/doc/careers.png)
 
 ### Contact Page
 
-![Contact Page Screenshot](documentation/contact.png)
+![Contact Page Screenshot](static/doc/contact.png)
 
 ### 404 Page
 
-![404 Page Screenshot](documentation/404.png)
+![404 Page Screenshot](static/doc/404.png)
 
 </details>
 
