@@ -110,17 +110,7 @@ I have been mindful during coding to ensure that the website is as accessible fr
 
 ### Deployment
 
-This project was initially deployed using heroku, before being redeployed using railway.
-
-
-<details>
-<summary>Expand for Railway Deployment Instructions</summary>
-Since completing my diploma and due to Heroku removing their free tier in November 2022, I have migrated the deployment of this site to use railway.app. You can find instructions on how to migrate your app from Heroku to Railway in my [article here](https://www.codu.co/articles/migrating-your-heroku-app-to-railway-vf9p3kid).
-
-Note that you will also need to create a runtime.txt in your environment which contains the version of python you are using. You can find this out by typing python --version in the terminal, and entering the result into the runtime.txt folder like so:
-
-`Python -3.10.5`
-</details>
+This project was deployed using heroku.
 
 <details>
 <summary>Expand for Heroku Deployment Instructions</summary>
@@ -175,7 +165,7 @@ The site is deployed using Heroku. To deploy to Heroku:
 To fork the repository:
 
 1. Log in (or sign up) to Github.
-2. Go to the repository for this project, [Thorin Flask App Repo](https://github.com/kera-cudmore/thorin-flask-app).
+2. Go to the repository for this project, [Thorin Flask App Repo](https://github.com/AmirShkolnik/Flask-Heroku).
 3. Click the Fork button in the top right corner.
 
 #### How to Clone
@@ -183,7 +173,7 @@ To fork the repository:
 To clone the repository:
 
 1. Log in (or sign up) to GitHub.
-2. Go to the repository for this project, [Thorin Flask App Repo](https://github.com/kera-cudmore/thorin-flask-app).
+2. Go to the repository for this project, [Thorin Flask App Repo](https://github.com/AmirShkolnik/Flask-Heroku).
 3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
 4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
@@ -192,7 +182,7 @@ To clone the repository:
 
 ## Testing
 
-Testing was carried out throughout the build of the project. Please see the [testing file](TESTING.md) for more information.
+Testing was carried out throughout the build of the project. Please see the [testing file](testing.md) for more information.
 
 - - -
 
